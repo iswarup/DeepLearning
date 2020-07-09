@@ -1,10 +1,10 @@
 # Deep Learning
 
 
-### NN and DL from scratch
-### Hyperparameters
-### Structuring
-### Conv
+#### NN and DL from scratch
+#### Hyperparameters
+#### Structuring
+#### Conv
 
 ```markdown
 Syntax highlighted code block
