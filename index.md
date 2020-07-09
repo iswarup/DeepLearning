@@ -1,10 +1,10 @@
 # Deep Learning
 
 
-#### NN and DL from scratch
-#### Hyperparameters
-#### Structuring
-#### Conv
+#### [NN and DL from scratch](https://coursera.org/share/5f44c146afe8239ebcdab3ac5a0b3aa9)
+#### [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://coursera.org/share/9f6c0cafae8458888679eaeaa673bceb)
+#### [Structuring Machine Learning Projects](https://coursera.org/share/21ac0618de4a28fa60db3bd5241d7b26)
+####
 
 1. NN & DL
 2. Hyp
