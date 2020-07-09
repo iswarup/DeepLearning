@@ -1,4 +1,4 @@
-## Deep Learning
+# Deep Learning
 
 
 ### NN and DL from scratch
